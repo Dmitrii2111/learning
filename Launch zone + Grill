@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T07:52:28.098Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="QM2twA17ll69Va05IGY7" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T08:08:57.935Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="cAQR46uXH43K-VEddxvA" version="14.1.9" type="github">
   <diagram id="vpeqSg12sa7l9OnRB-_b" name="Page-1">
-    <mxGraphModel dx="946" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1577" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -676,7 +676,7 @@
             <mxPoint x="560" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="" link="https://www.dropbox.com/s/lomdhsqe7nyjlqu/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202021-01-14%20%D0%B2%2010.49.45.png?dl=0" id="wZw3V3sHB_DbIPL25aSf-131">
+        <UserObject label="" id="wZw3V3sHB_DbIPL25aSf-131">
           <mxCell style="endArrow=none;html=1;" parent="1" edge="1">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
               <mxPoint x="640" y="790" as="sourcePoint" />
@@ -786,6 +786,30 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <UserObject label="" id="z0dxiIXW1o_uFf0Rk9Vi-1">
+          <mxCell style="endArrow=none;html=1;" edge="1" parent="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="680" y="790" as="sourcePoint" />
+              <mxPoint x="640" y="770" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" id="z0dxiIXW1o_uFf0Rk9Vi-2">
+          <mxCell style="endArrow=none;html=1;" edge="1" parent="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="720" y="790" as="sourcePoint" />
+              <mxPoint x="680" y="770" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" id="z0dxiIXW1o_uFf0Rk9Vi-3">
+          <mxCell style="endArrow=none;html=1;" edge="1" parent="1">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="760" y="790" as="sourcePoint" />
+              <mxPoint x="720" y="770" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
